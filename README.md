@@ -10,29 +10,33 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torquato-sys&layout=compact&langs_count=16&theme=dark"/>
 
 ### Main Formation:
- ![ Coursera ](https://img.shields.io/badge/Coursera-/19-000000?style=for-the-badge&logo=Coursera)
- ![ Kodi ](https://img.shields.io/badge/Estacio-/23-000000?style=for-the-badge&logo=kodi&logoColor=FFFFFF)
-  
-![ Python ](https://img.shields.io/badge/Python-3-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![ Pentest ](https://img.shields.io/badge/Pentest-/23-000000?style=for-the-badge&logo=iterm2)
+ ![ Coursera ](https://img.shields.io/badge/Coursera_/19-000000?style=for-the-badge&logo=Coursera)
+ ![ Kodi ](https://img.shields.io/badge/Estacio_/23-000000?style=for-the-badge&logo=kodi&logoColor=FFFFFF)
+![ Python ](https://img.shields.io/badge/Python_3-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![ Pentest ](https://img.shields.io/badge/Pentest_/23-000000?style=for-the-badge&logo=gnometerminal)
 
 ### Tools:
-![ Visual Code ](https://img.shields.io/badge/VS_Code-1.80-000000?style=for-the-badge&logo=visualstudiocode)
-![ WordPress ](https://img.shields.io/badge/WordPress-6.2.2-000000?style=for-the-badge&logo=wordpress)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![ Visual Code ](https://img.shields.io/badge/VS_Code_1.80-000000?style=for-the-badge&logo=visualstudiocode)
+![ WordPress ](https://img.shields.io/badge/WordPress_6.2.2-000000?style=for-the-badge&logo=wordpress)
+![ Linux ](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![ Kali Linux ](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
+![ Bash ](https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-Microsoft_Office-000000?style=for-the-badge&logo=microsoft-office&logoColor=FFFFFF)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)&nbsp;
 
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-<div style="display: flex; align-items: center;">
-<img width="125px" src="./assets/Pypi.png" title="Pypi"/>
-<img width="125px" src="./assets/cyber segurança.png" title="Cyber segurança"/>
-<img width="125px" src="./assets/Banco de dados.png" title="Banco de dados"/>
-</div>
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)&nbsp;
+![ SQlite ](https://img.shields.io/badge/-SQlite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)&nbsp;
+![ Banco Dados ](https://img.shields.io/badge/-Banco_de_Dados-000000?style=for-the-badge&logo=adminer&logoColor=FFFFFF)&nbsp;
+![ Pypi ](https://img.shields.io/badge/-Pypi-000000?style=for-the-badge&logo=pypi&logoColor=FFFFFF)&nbsp;
+![ Cyber Segurança ](https://img.shields.io/badge/-Cyber_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF)&nbsp;
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Torquato-sys&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
