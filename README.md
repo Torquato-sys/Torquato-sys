@@ -9,13 +9,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torquato-sys&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+### Main Formation:
+  
+  <img width="125px" src="./assets/coursera.png" title="Coursera">
+  <img width="125px" src="./assets/Estacio.png" title="Estacio">
+
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img width="125px" src="./assets/penterster.png" title="Pentester">
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+<img width="125px" src="./assets/WordPress.png" title="WordPress">
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -25,6 +29,9 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<img width="125px" src="./assets/Pypi.png" title="Pypi">
+<img width="125px" src="./assets/cyber segurança.png" title="Cyber segurança">
+<img width="125px" src="./assets/Banco de dados.png" title="Banco de dados">
 
 <h1>Contatos</h1>
 <div>
