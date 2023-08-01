@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EB04&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5BEA58&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+Torquato+Fernandes;I'm+23+years+old;I'm+from+Brazil,+SP;Graduate+in+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3FD73C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+Torquato+Fernandes;I'm+23+years+old;I'm+from+Brazil,+SP;Graduate+in+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Torquato-sys&bg_color=0d1117&color=3FD73C&line=3FD73C&point=3FD73C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>Github Status</h1>
- <a href="https://www.github.com/Torquato-sys">
- <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Torquato-sys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torquato-sys&layout=compact&langs_count=16&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Torquato-sys&show_icons=true&count_private=true&hide_border=true&title_color=3FD73C&icon_color=3FD73C&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torquato-sys&layout=compact&hide_border=true&title_color=3FD73C&text_color=3FD73C&bg_color=0d1117" />
+</div>
 
 ### Main Formation:
  ![ Coursera ](https://img.shields.io/badge/Coursera_/19-000000?style=for-the-badge&logo=Coursera)
