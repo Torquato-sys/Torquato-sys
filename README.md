@@ -56,7 +56,7 @@
   <img src="https://profile-counter.glitch.me/torquato-sys/count.svg" />  
 </p>
 
-
+![Snake animation](https://github.com/torquato-sys/torquato-sys/blob/output/github-contribution-grid-snake.svg)
 <!-- github workflow  -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EB04&height=120&section=footer"/>****
