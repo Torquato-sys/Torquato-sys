@@ -51,12 +51,11 @@
 
 <h1>Atividade</h1>
 <!-- visitors count  -->
-
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/torquato-sys/count.svg" />  
 </p>
 
-![Snake animation](https://github.com/torquato-sys/torquato-sys/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- github workflow  -->
