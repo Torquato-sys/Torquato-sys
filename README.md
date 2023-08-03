@@ -53,10 +53,10 @@
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Torquato-sys/count.svg" />  
+  <img src="https://profile-counter.glitch.me/torquato-sys/count.svg" />  
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/torquato-sys/torquato-sys/blob/output/github-contribution-grid-snake.svg)
 
 <!-- github workflow  -->
 
