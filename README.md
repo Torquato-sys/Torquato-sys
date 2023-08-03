@@ -56,7 +56,6 @@
   <img src="https://profile-counter.glitch.me/torquato-sys/count.svg" />  
 </p>
 
-![snake gif](https://github.com/torquato-sys/torquato-sys/blob/output/github-contribution-grid-snake.svg)
 
 <!-- github workflow  -->
 
